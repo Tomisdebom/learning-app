@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d3f7f415a4f6d80432083ffc36c162be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6bd1728ef57756063b8e2e7bc0d75761/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f2af5697c1701792320da203eb6d21ba/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7fca4015a8e9472fd26e372f61f2f8af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb4d649c65b596f64f923eae2e7dede2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/360603fcd5254873cb8e499532c7f6b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/d51cd435269bdb46d956d46549024bfe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/66d8e4b538c23591925b103173738cb3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e50963cbb75053873b10b35b8212d820/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/87d545cd6fafcfaae376636349889545/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5693681c02ec7a732f511ee07e50397/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4b5ea2b76d796ab8e109edd8326ab5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:8:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6bd1728ef57756063b8e2e7bc0d75761/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6bd1728ef57756063b8e2e7bc0d75761/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.MainActivity
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:15:19-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:19:27-74
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.SignUp
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:22:19-60
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.ChapterSelect
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:23:19-67
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:24:19-61
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:25:19-61
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:26:19-61
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lessons
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:27:9-64
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:27:19-61
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1T1
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:28:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:28:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2T1
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:29:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:29:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3T1
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:30:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:30:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1T2
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:31:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:31:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2T2
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:32:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:32:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3T2
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:33:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:33:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question1
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:34:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:34:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question2
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:35:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:35:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question3
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:36:9-66
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:36:19-63
+activity#com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.Correct
+ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:37:9-73
+	android:name
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml:37:19-61
+uses-sdk
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d3f7f415a4f6d80432083ffc36c162be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/d3f7f415a4f6d80432083ffc36c162be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6bd1728ef57756063b8e2e7bc0d75761/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6bd1728ef57756063b8e2e7bc0d75761/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f2af5697c1701792320da203eb6d21ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/f2af5697c1701792320da203eb6d21ba/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7fca4015a8e9472fd26e372f61f2f8af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/7fca4015a8e9472fd26e372f61f2f8af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb4d649c65b596f64f923eae2e7dede2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/cb4d649c65b596f64f923eae2e7dede2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/360603fcd5254873cb8e499532c7f6b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/360603fcd5254873cb8e499532c7f6b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/d51cd435269bdb46d956d46549024bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/d51cd435269bdb46d956d46549024bfe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/66d8e4b538c23591925b103173738cb3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/66d8e4b538c23591925b103173738cb3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e50963cbb75053873b10b35b8212d820/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e50963cbb75053873b10b35b8212d820/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/87d545cd6fafcfaae376636349889545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/87d545cd6fafcfaae376636349889545/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5693681c02ec7a732f511ee07e50397/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/e5693681c02ec7a732f511ee07e50397/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4b5ea2b76d796ab8e109edd8326ab5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/eigenaar/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4f4b5ea2b76d796ab8e109edd8326ab5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eigenaar/Documents/Studie/Software/app/src/main/AndroidManifest.xml

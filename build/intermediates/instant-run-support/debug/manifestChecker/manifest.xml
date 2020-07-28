@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eigenaar.softwarelearningapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="25"
+        android:targetSdkVersion="27" />
+
+    <!-- Give permission to access internet tto reach the web server -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.SignUp" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.ChapterSelect" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lessons" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1T1" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2T1" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3T1" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson1T2" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson2T2" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.lesson3T2" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question1" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question2" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.question3" />
+        <activity android:name="com.example.eigenaar.softwarelearningapp.SoftwareLearingApp.Correct" />
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.eigenaar.softwarelearningapp.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

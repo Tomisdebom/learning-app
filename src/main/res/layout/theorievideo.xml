@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@drawable/myrect"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="27dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="Theory video"
+            android:textColor="#2e2e2e"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <VideoView
+            android:id="@+id/videoView"
+            android:layout_width="276dp"
+            android:layout_height="128dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="18dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="18dp"
+            android:layout_marginTop="18dp"
+            android:gravity="center"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin maximus nisl et justo scelerisque, et posuere ante commodo. Nam et vestibulum quam. Proin et molestie purus. Morbi vel posuere erat. Donec condimentum orci in est porttitor, sed elementum ex hendrerit. Aenean augue dolor, dapibus ut libero non, tincidunt ultricies erat. Duis elementum dictum nibh, eu consequat massa fringilla sit amet. Etiam pretium justo sit amet turpis consectetur dignissim. Cras suscipit accumsan"
+            android:textSize="16sp" />
+
+        <Button
+
+            android:id="@+id/button"
+            android:layout_width="336dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:gravity="center"
+            android:text="Next"
+            android:textColor="#FFF5F5"
+            android:textSize="20sp"
+            android:background="@drawable/signupbutton"/>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
